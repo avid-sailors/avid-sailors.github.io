@@ -12,18 +12,6 @@
           </svg>
         </a>
 
-        
-  
-    <a href="/" title="Anchor">Anchor</a>
-  
-    <a href="/docs/" title="Docs">Docs</a>
-  
-    <a href="https://my.avidsailors.com" title="Themes">my account</a>
-  
-    <a href="/blog/" title="Blog">Blog</a>
-  
-      </nav>
-
     </div>
   </div>
 </header>
