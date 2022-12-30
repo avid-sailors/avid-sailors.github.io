@@ -3,7 +3,6 @@
 
 
 <header class="header">
-  <div class="container">
     <div class="row">
       <nav class="menu span-8">
         <a href="https://anchorcms.com/" title="Anchor CMS" class="logo">
