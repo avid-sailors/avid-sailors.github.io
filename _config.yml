@@ -30,7 +30,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: bulma-clean-theme
+# With GitHub Pages Gem
+remote_theme: chrisrhymes/bulma-clean-theme
 # was : theme: minima
 
 plugins:
