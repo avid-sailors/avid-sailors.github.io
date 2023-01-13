@@ -13,13 +13,10 @@ GEM
       jekyll-seo-tag (~> 2.7)
       jekyll-sitemap (~> 1.4)
       kramdown-parser-gfm (~> 1.1)
-<<<<<<< Updated upstream
-=======
     coffee-script (2.4.1)
       coffee-script-source
       execjs
     coffee-script-source (1.11.1)
->>>>>>> Stashed changes
     colorator (1.1.0)
     commonmarker (0.23.6)
     concurrent-ruby (1.1.10)
@@ -125,11 +122,6 @@ GEM
       jekyll (~> 3.0)
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
-<<<<<<< Updated upstream
-    jekyll-paginate (1.1.0)
-    jekyll-sass-converter (3.0.0)
-      sass-embedded (~> 1.54)
-=======
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
     jekyll-github-metadata (2.13.0)
@@ -156,13 +148,10 @@ GEM
       rubyzip (>= 1.3.0, < 3.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
->>>>>>> Stashed changes
     jekyll-seo-tag (2.8.0)
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-<<<<<<< Updated upstream
-=======
     jekyll-swiss (1.0.0)
     jekyll-theme-architect (0.2.0)
       jekyll (> 3.5, < 5.0)
@@ -206,7 +195,6 @@ GEM
       jekyll-seo-tag (~> 2.0)
     jekyll-titles-from-headings (0.5.3)
       jekyll (>= 3.3, < 5.0)
->>>>>>> Stashed changes
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     jemoji (0.12.0)
@@ -221,9 +209,6 @@ GEM
     listen (3.7.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
-<<<<<<< Updated upstream
-    mercenary (0.4.0)
-=======
     mercenary (0.3.6)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
@@ -235,7 +220,6 @@ GEM
     octokit (4.25.1)
       faraday (>= 1, < 3)
       sawyer (~> 0.9)
->>>>>>> Stashed changes
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.7)
@@ -273,12 +257,7 @@ PLATFORMS
 
 DEPENDENCIES
   bulma-clean-theme
-<<<<<<< Updated upstream
-  http_parser.rb (~> 0.6.0)
-  jekyll (~> 4.3.1)
-=======
   github-pages
->>>>>>> Stashed changes
   jekyll-feed (~> 0.12)
   tzinfo (>= 1, < 3)
   tzinfo-data
